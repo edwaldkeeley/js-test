@@ -132,3 +132,4 @@ const Noobie1 = {
 };
 
 console.log(Noobie1.getSummary());
+// Noobie
